@@ -1,0 +1,20 @@
+# Agent 관련 파일들
+.claude/
+AGENTS.md
+CLAUDE.md
+
+# IDE 설정
+.idea/
+.vscode/
+
+# Obsidian 설정
+.obsidian/
+
+# OS 관련
+.DS_Store
+Thumbs.db
+
+# 임시 파일
+*.tmp
+*.swp
+*~
