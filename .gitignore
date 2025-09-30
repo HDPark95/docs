@@ -10,6 +10,9 @@ CLAUDE.md
 # Obsidian 설정
 .obsidian/
 
+# Kanban 파일
+*.kanban
+
 # OS 관련
 .DS_Store
 Thumbs.db
